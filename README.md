@@ -24,16 +24,16 @@ We trained and evaluated several models:
 - **Linear Regression** provided a strong baseline with near-instant training.
 - **SVR** underperformed relative to other models.
 
-###Linear Regression
-![Linear Regression Wave Height Prediction](Resources/Linear Regression.png)
+**Below are the predictions vs actual wave height for each model.**
 
-###Support Vector Regression
-![SVR Wave Height Prediction](Resources/SVR.png)
+### Linear Regression
+<img src="Resources/Linear_Regression.png" alt="Linear Regression Wave Height Prediction" width="650">
 
-###Random Forest
-![Random Forest Wave Height Prediction](Resources/Random Forest.png)
+### Support Vector Regression
+<img src="Resources/SVR.png" alt="SVR Wave Height Prediction" width="650">
 
-###Long Short-Term Memory
-![LSTM Wave Height Prediction](Resources/LSTM.png)
+### Random Forest
+<img src="Resources/Random_Forest.png" alt="Random Forest Wave Height Prediction" width="650">
 
-
+### Long Short-Term Memory
+<img src="Resources/LSTM.png" alt="LSTM Wave Height Prediction" width="650">
