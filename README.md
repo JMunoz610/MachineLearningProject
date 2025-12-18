@@ -25,15 +25,15 @@ We trained and evaluated several models:
 - **SVR** underperformed relative to other models.
 
 ###Linear Regression
-![Linear Regression Wave Height Prediction](Linear Regression.png)
+![Linear Regression Wave Height Prediction](Resources/Linear Regression.png)
 
 ###Support Vector Regression
-![SVR Wave Height Prediction](SVR.png)
+![SVR Wave Height Prediction](Resources/SVR.png)
 
 ###Random Forest
-![Random Forest Wave Height Prediction](Random Forest.png)
+![Random Forest Wave Height Prediction](Resources/Random Forest.png)
 
 ###Long Short-Term Memory
-![LSTM Wave Height Prediction](LSTM.png)
+![LSTM Wave Height Prediction](Resources/LSTM.png)
 
 
