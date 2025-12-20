@@ -1,4 +1,4 @@
-# Wave Height Estimation using Atmospheric Meteorological Data
+# Wave Height Estimation using Atmospheric Meteorological Data (Aug 2025 - Dec 2025)
 
 This project explores machine learning models to estimate **significant wave height** using atmospheric data collected from NOAA buoys off the cost of Virginia Beach. The goal is to reduce reliance on expensive and unreliable intertial measurement units by predicting wave height from accessible meteorological measurements.
 
